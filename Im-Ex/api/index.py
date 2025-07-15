@@ -1,0 +1,1 @@
+from app import app as application  # Vercel expects this name
